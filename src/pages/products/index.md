@@ -1,101 +1,89 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
+title: My Art Gallery
+image: /img/img_3083.png
+heading: This page can be a gallery if you want.
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: "A description of whatever you do decide to make it. "
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/apple-touch-icon.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        More blurbs, the rest will be populated with placeholder text. Edit them
+        to whatever you want.
+    - image: /img/safari-pinned-tab.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Ut voluptas ea eligendi fuga ea mollitia impedit At temporibus odit ea
+        impedit voluptas rem sequi veritatis. Sed tempora optio in iusto
+        molestiae qui magni voluptas. 33 quasi maxime ut cumque Quis ut sunt
+        illo sit Quis exercitationem hic enim dolore. 
+
+
+        Et quia placeat eos expedita reprehenderit placeat autem sed vero quaerat! Qui praesentium voluptas et aliquid praesentium aut repellendus ipsum ea cupiditate earum qui ipsum possimus. Ex autem voluptas est voluptatem sint eos voluptas dicta aut internos illo aut fuga nihil est doloribus amet sit quasi perferendis!
+    - image: /img/safari-pinned-tab.svg
+      text: >+
+        Ut voluptas ea eligendi fuga ea mollitia impedit At temporibus odit ea
+        impedit voluptas rem sequi veritatis. Sed tempora optio in iusto
+        molestiae qui magni voluptas. 33 quasi maxime ut cumque Quis ut sunt
+        illo sit Quis exercitationem hic enim dolore. 
+
+    - image: /img/apple-touch-icon.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        Et quia placeat eos expedita reprehenderit placeat autem sed vero
+        quaerat! Qui praesentium voluptas et aliquid praesentium aut repellendus
+        ipsum ea cupiditate earum qui ipsum possimus. Ex autem voluptas est
+        voluptatem sint eos voluptas dicta aut internos illo aut fuga nihil est
+        doloribus amet sit quasi perferendis!
+  heading: Edit under Intro Heading
+  description: And the description for it.
 main:
-  heading: Great coffee with no compromises
+  heading: Main Section Heading
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Description for the main section goes here, or whatever else you'd like.
+    Heres some placeholder: Et quia placeat eos expedita reprehenderit placeat
+    autem sed vero quaerat! Qui praesentium voluptas et aliquid praesentium aut
+    repellendus ipsum ea cupiditate earum qui ipsum possimus. Ex autem voluptas
+    est voluptatem sint eos voluptas dicta aut internos illo aut fuga nihil est
+    doloribus amet sit quasi perferendis!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/img_3086.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/img_3086.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/img_3083.png
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Some Web Dev.
+    quote: I couldn't believe that crazy b*stard actually pulled it off getting the
+      images to upload at full size, but here we are!
+  - author: Everyone who sees it.
+    quote: This is pretty cool
+full_image: /img/img_3083.png
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Maybe this is your commission or lesson rates?
+  description: Describe whatever it is here.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Description of Small
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - items are bullet points
+        - commas separate them
+        - A weird quirk is you can only insert a space before the last letter
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Description of Big
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - items are bullet points
+        - commas separate them
+        - A weird quirk is you can only insert a space before the last letter
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: "80"
+    - description: As many or as few items as you want mostly.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - items are bullet points
+        - commas separate them
+        - A weird quirk is you can only insert a space before the last letter
       plan: Custom
-      price: '??'
+      price: ??
 ---
