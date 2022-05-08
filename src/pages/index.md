@@ -13,7 +13,7 @@ description: Description for the upper heading, CMS layouts are weird, but this
   got it stable.
 intro:
   blurbs:
-    - image: /img/safari-pinned-tab.svg
+    - image: /img/img_3086.png
       text: You can put art with blurbs here, maybe passages, thoughts, whatever you
         want.
     - image: /img/apple-touch-icon.png
@@ -22,7 +22,7 @@ intro:
         default this is setup for 4 blurbs.
     - image: /img/apple-touch-icon.png
       text: "These blurbs are all editable, to be whatever you want. "
-    - image: /img/safari-pinned-tab.svg
+    - image: /img/img_3086.png
       text: >
         Maybe you choose to show a piece of art for sale and link to it in the
         blurb, or describe how to contact you for custom artwork
