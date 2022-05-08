@@ -1,19 +1,34 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About Page
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### This page can be edited in the rich-text editor, or in markdown format in the CMS.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Put whatever you want here. I am going to populate the rest with placeholder text. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Lorem Ipsum
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Lorem ipsum dolor sit amet. Qui rerum omnis et dolorum repellat cum officia labore qui sint voluptas sed nihil dolorem et aliquam saepe aut tenetur excepturi. Rem praesentium culpa sit alias esse ut veritatis magni aut quod magni sit impedit alias. Aut esse voluptatem et nemo quas ea laudantium molestiae 33 perferendis asperiores. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Ut voluptas ea eligendi fuga ea mollitia impedit At temporibus odit ea impedit voluptas rem sequi veritatis. Sed tempora optio in iusto molestiae qui magni voluptas. 33 quasi maxime ut cumque Quis ut sunt illo sit Quis exercitationem hic enim dolore. 
+
+Et quia placeat eos expedita reprehenderit placeat autem sed vero quaerat! Qui praesentium voluptas et aliquid praesentium aut repellendus ipsum ea cupiditate earum qui ipsum possimus. Ex autem voluptas est voluptatem sint eos voluptas dicta aut internos illo aut fuga nihil est doloribus amet sit quasi perferendis!
+
+### Delores Ipsum
+
+Lorem ipsum dolor sit amet. Qui rerum omnis et dolorum repellat cum officia labore qui sint voluptas sed nihil dolorem et aliquam saepe aut tenetur excepturi. Rem praesentium culpa sit alias esse ut veritatis magni aut quod magni sit impedit alias. Aut esse voluptatem et nemo quas ea laudantium molestiae 33 perferendis asperiores. 
+
+Ut voluptas ea eligendi fuga ea mollitia impedit At temporibus odit ea impedit voluptas rem sequi veritatis. Sed tempora optio in iusto molestiae qui magni voluptas. 33 quasi maxime ut cumque Quis ut sunt illo sit Quis exercitationem hic enim dolore. 
+
+Et quia placeat eos expedita reprehenderit placeat autem sed vero quaerat! Qui praesentium voluptas et aliquid praesentium aut repellendus ipsum ea cupiditate earum qui ipsum possimus. Ex autem voluptas est voluptatem sint eos voluptas dicta aut internos illo aut fuga nihil est doloribus amet sit quasi perferendis!
+
+### Tornan Ipsum
+
+Lorem ipsum dolor sit amet. Qui rerum omnis et dolorum repellat cum officia labore qui sint voluptas sed nihil dolorem et aliquam saepe aut tenetur excepturi. Rem praesentium culpa sit alias esse ut veritatis magni aut quod magni sit impedit alias. Aut esse voluptatem et nemo quas ea laudantium molestiae 33 perferendis asperiores. 
+
+### Zebra Unicorn
+
+Ut voluptas ea eligendi fuga ea mollitia impedit At temporibus odit ea impedit voluptas rem sequi veritatis. Sed tempora optio in iusto molestiae qui magni voluptas. 33 quasi maxime ut cumque Quis ut sunt illo sit Quis exercitationem hic enim dolore. 
+
+Et quia placeat eos expedita reprehenderit placeat autem sed vero quaerat! Qui praesentium voluptas et aliquid praesentium aut repellendus ipsum ea cupiditate earum qui ipsum possimus. Ex autem voluptas est voluptatem sint eos voluptas dicta aut internos illo aut fuga nihil est doloribus amet sit quasi perferendis!
