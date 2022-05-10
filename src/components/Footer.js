@@ -38,6 +38,23 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
+                      <div className="navbar-start has-text-centered">
+              <Link className="navbar-item" to="/">
+                Home
+              </Link>
+              <Link className="navbar-item" to="/about">
+                About
+              </Link>
+              <Link className="navbar-item" to="/products">
+                Gallery
+              </Link>
+              <Link className="navbar-item" to="/blog">
+                Blog
+              </Link>
+              <Link className="navbar-item" to="/contact">
+                Contact
+              </Link>
+            </div>
                     </li>
                   </ul>
                 </section>
