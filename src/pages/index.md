@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: "OkraOba "
-image: /img/products-full-width.jpg
+title: Okra Oba
+image: /img/pexels-photo-4834961.jpeg
 heading: Art Portfolio Blog
-subheading: Art Portfolio / / Blog
+subheading: Art Portfolio //  Blog
 mainpitch:
   title: Enter a heading about this blog.
   description: >
