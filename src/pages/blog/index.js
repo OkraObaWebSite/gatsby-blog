@@ -18,7 +18,7 @@ export default class BlogIndexPage extends React.Component {
             style={{
               boxShadow: "0.5rem 0 0 #293342, -0.5rem 0 0 #293342",
               backgroundColor: "#293342",
-              color: "white",
+              color: "black",
               padding: "1rem",
             }}
           >
