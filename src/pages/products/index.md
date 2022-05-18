@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: My Art Gallery
+title: Art Gallery
 image: /img/img_3083.png
 heading: This page can be a gallery if you want.
 path: /products
