@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "OkraOba Art Portfolio Blog",
+    title: "Gatsby + Netlify CMS Starter",
     description:
-      "Check out this Art by OkraOba",
+      "Checkout this art by OkraOba.",
+  },
   plugins: [
     "gatsby-plugin-react-helmet",
     {
