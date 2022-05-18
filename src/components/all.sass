@@ -1,14 +1,14 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-// Kaldi logo brand color: #ffffff
-$kaldi-red: #ffffff
-$kaldi-red-invert: #000000
+// Kaldi logo brand color: #c1c5ca
+$kaldi-red: #000000
+$kaldi-red-invert: #c1c5ca
 
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
-$body-color: #ffffff
-$black: #293432
+$body-color: #c1c5ca
+$black: #293342
 
 .navbar .navbar-menu
   box-shadow: none !important
@@ -27,6 +27,7 @@ $black: #293432
     padding: 0 2rem 1rem 0
     margin-bottom: 1.5rem
     margin-top: 0
+    color: #c1c5ca
 
 // Helper Classes
 .full-width-image-container
@@ -82,7 +83,7 @@ $black: #293432
   padding: 0 1rem
 footer.footer
   padding: 3rem 0rem 0rem
-  background-color: transparent
+  background-color: #ffffff
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -113,6 +114,8 @@ $menu-label-color: $white-ter
     display: inline
 
 // blog roll
+.blog-list-item.is-normal
+  background-color: #c1c5ca
 .blog-list-item.is-featured
   background-color: #ffffff
 .blog-list-item header
@@ -126,18 +129,37 @@ $menu-label-color: $white-ter
   background-color: #293342
 
 * nav
-  background-color: #293342
-
-* footer
   background-color: #ffffff
 
+* navbar
+  background-color: #ffffff
 
+* footer
+  background-color: #000000
+
+navbar.is-transparent has-background-black has-text-white-ter
+  background-color: #ffffff
+
+Footer.bg-over-bear
+  background-color: #293342
+
+div#navMenu.navbar-menu.is-active
+  background-color: #293342
 
 p.post-meta
   color: #293342
 
-.navbar-item
-  color: #ffffff
+a.navbar-item
+  color: #c1c5ca
+
+//set navbar stuff
+nav.navbar.bg-over-bear
+  background-color: #293342
+
+//set footer over-rides
+footer.footer bg-over-bear
+  background-color: #c1c5ca
+
 @import "~bulma"
 
 .content h1
@@ -159,10 +181,10 @@ h1.has-text-weight-bold.is-size-1
   background-color: #293342
 
 a.title.has-text-primary.is-size-4
-  color: #293342
+  color: #ffffff
 
 a
-  color: #293342
+  color: #ffffff
 
 div.is-parent.column.is-6
   color: #293342
