@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "OkraOba Art Portfolio Blog",
     description:
       "Checkout this art by OkraOba.",
   },
