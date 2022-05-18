@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "OkraOba Art Portfolio Blog",
     description:
-      "Check out this Art by OkraOba"
+      "Check out this Art by OkraOba",
   plugins: [
     "gatsby-plugin-react-helmet",
     {
