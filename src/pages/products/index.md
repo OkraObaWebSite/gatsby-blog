@@ -11,7 +11,7 @@ intro:
       text: >
         More blurbs, the rest will be populated with placeholder text. Edit them
         to whatever you want.
-    - image: /img/safari-pinned-tab.svg
+    - image: /img/apple-touch-icon.png
       text: >
         Ut voluptas ea eligendi fuga ea mollitia impedit At temporibus odit ea
         impedit voluptas rem sequi veritatis. Sed tempora optio in iusto
@@ -20,7 +20,7 @@ intro:
 
 
         Et quia placeat eos expedita reprehenderit placeat autem sed vero quaerat! Qui praesentium voluptas et aliquid praesentium aut repellendus ipsum ea cupiditate earum qui ipsum possimus. Ex autem voluptas est voluptatem sint eos voluptas dicta aut internos illo aut fuga nihil est doloribus amet sit quasi perferendis!
-    - image: /img/safari-pinned-tab.svg
+    - image: /img/apple-touch-icon.png
       text: >+
         Ut voluptas ea eligendi fuga ea mollitia impedit At temporibus odit ea
         impedit voluptas rem sequi veritatis. Sed tempora optio in iusto
